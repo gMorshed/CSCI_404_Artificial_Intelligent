@@ -1,0 +1,11 @@
+Observation sequence Q: 
+Length of Q: 0
+
+P(h1 | Q) = 0.1000000000
+P(h2 | Q) = 0.2000000000
+P(h3 | Q) = 0.4000000000
+P(h4 | Q) = 0.2000000000
+P(h5 | Q) = 0.1000000000
+
+Probability that the next candy we pick will be C, given Q: 0.5000000000
+Probability that the next candy we pick will be L, given Q: 0.5000000000
